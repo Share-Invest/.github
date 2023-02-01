@@ -1,5 +1,7 @@
 [![.NET SERVER](https://github.com/Share-Invest/Algorithmic-Trading-Server/actions/workflows/server.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Server/actions/workflows/server.yml) [![.NET LAUNCHER](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml) [![.NET WINDOWS](https://github.com/Share-Invest/Algorithmic-Trading-DeskTop/actions/workflows/windows-desktop.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-DeskTop/actions/workflows/windows-desktop.yml)
 
+![optimizer](https://user-images.githubusercontent.com/48705422/216043344-b5b6deae-edc2-48c0-b3a2-ab9ca1d0f2e5.png)<blockquote>Optimizer</blockquote>
+
 ![20230115_013636](https://user-images.githubusercontent.com/48705422/212484450-8da86bfc-0302-4993-856e-8d362f25ba4e.png)<blockquote>Algorithmic-Trading-Intro</blockquote>
 
 ![20230104_233918](https://user-images.githubusercontent.com/48705422/210583860-7d5cd785-d183-4137-8977-1e17a472565e.png)<blockquote>Algorithmic-Trading-Server</blockquote>
