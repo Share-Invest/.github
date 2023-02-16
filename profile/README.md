@@ -1,6 +1,6 @@
 [![.NET SERVER](https://github.com/Share-Invest/Algorithmic-Trading-Server/actions/workflows/server.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Server/actions/workflows/server.yml) [![.NET LAUNCHER](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml) [![.NET WINDOWS](https://github.com/Share-Invest/Algorithmic-Trading-DeskTop/actions/workflows/windows-desktop.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-DeskTop/actions/workflows/windows-desktop.yml)
 
-<img width=512 src=https://user-images.githubusercontent.com/48705422/212484450-8da86bfc-0302-4993-856e-8d362f25ba4e.png><blockquote>Algorithmic-Trading-Intro</blockquote>
+<a href=https://github.com/cyberprophet><img width=512 src=https://user-images.githubusercontent.com/48705422/212484450-8da86bfc-0302-4993-856e-8d362f25ba4e.png></a><blockquote>Algorithmic-Trading-Intro</blockquote>
 
 <img height=384 src=https://user-images.githubusercontent.com/45344929/216338019-fc69a7f8-c9d9-45f5-8462-5a3cf20e4252.jpg> <img height=384 src=https://user-images.githubusercontent.com/45344929/216391133-51b49d4d-bf9e-4b27-9849-86ec0c5bd96b.jpg><blockquote>Algorithmic-Trading-Mobile</blockquote>
 
