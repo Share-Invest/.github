@@ -6,6 +6,6 @@
 
 <img width=512 src=https://user-images.githubusercontent.com/48705422/210583860-7d5cd785-d183-4137-8977-1e17a472565e.png><blockquote>Algorithmic-Trading-Server</blockquote>
 
-<img height=384 src=https://user-images.githubusercontent.com/48705422/210582292-1372dc19-35df-4aa3-a39f-dfc612d72972.png><blockquote>Algorithmic-Trading-Launcher</blockquote>
+<img height=384 src=https://user-images.githubusercontent.com/48705422/219433002-2094fd53-3d22-48ab-a409-fb94d3887bb9.png> <img height=384 src=https://user-images.githubusercontent.com/48705422/210582292-1372dc19-35df-4aa3-a39f-dfc612d72972.png><blockquote>Algorithmic-Trading-Launcher</blockquote>
 
 <img width=512 src=https://user-images.githubusercontent.com/48705422/203870756-fb14b40a-bab6-4808-8d8a-3e233dc29a70.png><blockquote>Algorithmic-Trading-v1</blockquote>
