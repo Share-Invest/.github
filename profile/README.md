@@ -1,7 +1,7 @@
-[![Platform](https://img.shields.io/badge/platform-dotnet-purple)](https://dotnet.microsoft.com/) [![Language](https://img.shields.io/badge/language-csharp-purple)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
+[![Platform](https://img.shields.io/badge/PLATFORM-dotnet-purple)](https://dotnet.microsoft.com/) [![Language](https://img.shields.io/badge/LANGUAGE-csharp-purple)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
 [![.NET SERVER](https://github.com/Share-Invest/Algorithmic-Trading-Server/actions/workflows/server.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Server/actions/workflows/server.yml) [![.NET LAUNCHER](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml) [![.NET WINDOWS](https://github.com/Share-Invest/Algorithmic-Trading-DeskTop/actions/workflows/windows-desktop.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-DeskTop/actions/workflows/windows-desktop.yml)
 
-[![Platform](https://img.shields.io/badge/platform-flutter-blue)](https://flutter.dev/) [![Language](https://img.shields.io/badge/language-dart-blue)](https://dart.dev/) [![ant](https://github.com/Share-Invest/ant/actions/workflows/ant.yml/badge.svg?event=push)](https://github.com/Share-Invest/ant/actions/workflows/ant.yml)
+[![Platform](https://img.shields.io/badge/PLATFORM-flutter-blue)](https://flutter.dev/) [![Language](https://img.shields.io/badge/LANGUAGE-dart-blue)](https://dart.dev/) [![ant](https://github.com/Share-Invest/ant/actions/workflows/ant.yml/badge.svg?event=push)](https://github.com/Share-Invest/ant/actions/workflows/ant.yml)
 
 <a href=https://github.com/cyberprophet><img width=512 src=https://user-images.githubusercontent.com/48705422/212484450-8da86bfc-0302-4993-856e-8d362f25ba4e.png></a><blockquote>Algorithmic-Trading-Intro</blockquote>
 
