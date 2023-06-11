@@ -1,17 +1,66 @@
-# ANT supports [![OS](https://img.shields.io/badge/ios-000000?style=flat&logoColor=white)](https://developer.apple.com) and [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com).
-### ANT STOCK SCREEN using [![Platform](https://img.shields.io/badge/Flutter-02569B?style=plastic&logoColor=white&logo=Flutter)](https://flutter.dev/) and [![Language](https://img.shields.io/badge/Dart-0175C2?style=plastic&logoColor=white&logo=Dart)](https://dart.dev/)
-<a href=https://github.com/cyberprophet><img height=384 src=https://user-images.githubusercontent.com/48705422/232752291-c2b0e0c1-d374-44fc-9275-cc005fabea28.jpg></a> <a href=https://github.com/cyberprophet><img height=384 src=https://user-images.githubusercontent.com/48705422/232767369-144da406-e101-4bdf-bea2-da2c58339375.jpg></a> <a href=https://github.com/cyberprophet><img height=384 src=https://user-images.githubusercontent.com/48705422/235415158-519e321f-dce6-4d61-b1e3-6329e26023e5.jpg></a> <a href=https://github.com/cyberprophet><img height=384 src=https://user-images.githubusercontent.com/48705422/235415162-15c8bfbd-510a-485b-8bfa-15a8c42c34a9.jpg></a>
-### ANT ASSET SCREEN using [![Platform](https://img.shields.io/badge/Flutter-02569B?style=plastic&logoColor=white&logo=Flutter)](https://flutter.dev/) and [![Language](https://img.shields.io/badge/Dart-0175C2?style=plastic&logoColor=white&logo=Dart)](https://dart.dev/)
-<a href=https://github.com/Share-Invest/ant><img height=384 src=https://user-images.githubusercontent.com/48705422/230656183-45f3471d-28e1-474a-a812-98c1556745cc.jpg></a> <a href=https://github.com/Share-Invest/ant><img height=384 src=https://user-images.githubusercontent.com/48705422/230656185-dad17128-c5bc-433c-8322-a1c18aa10b31.jpg></a> <a href=https://github.com/Share-Invest/ant><img height=384 src=https://user-images.githubusercontent.com/48705422/229852558-e8b8c0d2-c8b5-4642-af4d-de61fab65c98.jpg></a> <a href=https://github.com/Share-Invest/ant><img height=384 src=https://user-images.githubusercontent.com/48705422/229852552-d0e51419-aab9-43bd-aa85-12b73296aaee.jpg></a>
-### ANT SERVER using [![Platform](https://img.shields.io/badge/dotnet-512BD4?style=plastic&logoColor=white&logo=.NET)](https://dotnet.microsoft.com/) [![Language](https://img.shields.io/badge/CSharp-239120?style=plastic&logoColor=white&logo=C%20Sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![DB](https://img.shields.io/badge/SQL-CC2927?style=plastic&logoColor=white&logo=microsoftsqlserver)](https://learn.microsoft.com/en-us/sql) alongside [![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logoColor=white&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<a href=https://github.com/cyberprophet><img width=512 src=https://user-images.githubusercontent.com/48705422/210583860-7d5cd785-d183-4137-8977-1e17a472565e.png></a>
-<a href=https://github.com/cyberprophet><img width=512 src=https://user-images.githubusercontent.com/48705422/212484450-8da86bfc-0302-4993-856e-8d362f25ba4e.png></a>
-### IDE using [![IDE](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logoColor=white&logo=visualstudio)](https://visualstudio.microsoft.com) and [![IDE](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logoColor=white&logo=visualstudiocode)](https://code.visualstudio.com)
-<a href=https://github.com/cyberprophet><img width=512 src=https://user-images.githubusercontent.com/48705422/239925022-8348e059-5d89-43e5-b3bb-ac150beb7611.png></a>
-<a href=https://github.com/cyberprophet><img width=512 src=https://user-images.githubusercontent.com/48705422/239925027-495750ce-f050-4595-b277-c8e92e5a34c7.png></a>
-# Build using [![Build](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logoColor=white&logo=githubactions)](https://docs.github.com)
-### · Web application server is [![.NET SERVER](https://github.com/Share-Invest/Algorithmic-Trading-Server/actions/workflows/server.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Server/actions/workflows/server.yml).
-### · Mobile application is [![ant](https://github.com/Share-Invest/ant/actions/workflows/ant.yml/badge.svg?event=push)](https://github.com/Share-Invest/ant/actions/workflows/ant.yml).
-### · Desktop application is [![.NET WINDOWS](https://github.com/Share-Invest/Algorithmic-Trading-DeskTop/actions/workflows/windows-desktop.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-DeskTop/actions/workflows/windows-desktop.yml).
-### · Desktop launcher is [![.NET LAUNCHER](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml).
-### · Desktop package is [![.NET PACKAGE](https://github.com/Share-Invest/Algorithmic-Trading-Package/actions/workflows/package-desktop.yml/badge.svg?event=push)](https://github.com/Share-Invest/Algorithmic-Trading-Package/actions/workflows/package-desktop.yml).
+# The [![NuGet](https://img.shields.io/badge/NuGet-004880?style=plastic&logoColor=white&logo=nuget)](https://nuget.org) package is [![NuGet](https://img.shields.io/nuget/v/ShareInvest.OpenAPI.Core?label=ShareInvest.OpenAPI.Core&style=plastic&logo=nuget&color=004880)](https://www.nuget.org/packages/ShareInvest.OpenAPI.Core).
+### · How to initailize in WPF [![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logoColor=white&logo=windows)](https://www.microsoft.com/en-us/windows) [![Platform](https://img.shields.io/badge/dotnet-512BD4?style=plastic&logoColor=white&logo=.NET)](https://dotnet.microsoft.com/) [![Language](https://img.shields.io/badge/CSharp-239120?style=plastic&logoColor=white&logo=C%20Sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![IDE](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logoColor=white&logo=visualstudio)](https://visualstudio.microsoft.com)
+```C#
+public partial class Test : Window
+{
+    public Test()
+    {
+        nint handle = new WindowInteropHelper(Application.Current.MainWindow).EnsureHandle();
+
+        InitializeComponent();
+
+        axAPI = new ShareInvest.AxKHCoreAPI(handle);
+    }
+    readonly ShareInvest.AxKHCoreAPI axAPI;
+}
+```
+### · How to use CommRqData in [![Platform](https://img.shields.io/nuget/v/Microsoft.NETCore.Platforms?label=.NET&style=plastic&logo=windows&color=512BD4)](https://versionsof.net)
+```C#
+public partial class Test : Window
+{
+    public Test()
+    {
+        ...
+        
+        axAPI.OnReceiveTrData += (object sender, _DKHOpenAPIEvents_OnReceiveTrDataEvent e) =>
+        {
+            var tr = axAPI.GetTrData(e.sTrCode);
+
+            var data = new Dictionary<string, string>();
+
+            for (int i = 0; i < tr.SingleData?.Length; i++)
+            {
+                data[tr.SingleData[i]] =
+                
+                    axAPI.GetCommData(e.sTrCode, e.sRQName, 0, tr.SingleData[i]).Trim();
+            }
+            for (int cnt = 0; cnt < axAPI.GetRepeatCnt(e.sTrCode, e.sRecordName); cnt++)
+            {
+                for (int i = 0; i < tr.MultiData?.Length; i++)
+                {
+                    data[tr.MultiData[i]] =
+                    
+                        axAPI.GetCommData(e.sTrCode, e.sRQName, cnt, tr.MultiData[i]).Trim();
+                }
+            }
+        };
+    }
+    void CommRqData()
+    {
+        /// <param name="sTrCode">주식기본정보요청</param>
+        var tr = axAPI.GetTrData("opt10001");
+
+        for (int i = 0; i < tr.Input?.Length; i++)
+        {
+            /// <param name="sValue">삼성전자</param>
+            axAPI.SetInputValue(tr.Input[i], "005930");
+        }
+        /// <param name="sScreenNo">화면번호</param>
+        int errCode = axAPI.CommRqData(tr.Name, tr.Code, 0, "8080");
+
+        string errMsg = Market.Error[errCode];
+    }
+    readonly ShareInvest.AxKHCoreAPI axAPI;
+}
+```
+### ☞ [![OPENAPI CORE](https://github.com/Share-Invest/securities-modules/actions/workflows/open-api-core.yml/badge.svg?branch=NET7&event=push)](https://github.com/Share-Invest/securities-modules/actions/workflows/open-api-core.yml) is also available in AnyCPU.
